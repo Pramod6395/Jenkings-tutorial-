@@ -68,3 +68,6 @@ docker inspect <container_id> | grep IPAddress
 ```
 docker pull devopsjourney1/myjenkinsagents:python
 ```
+
+![image](https://github.com/Pramod6395/Jenkings-tutorial-/assets/73251890/b336d623-3535-43d7-be9e-83d400c98886)
+
